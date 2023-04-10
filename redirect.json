@@ -1,0 +1,37 @@
+[
+	{
+		"source": "/",
+		"destination": "https://stefanco.de",
+		"permanent": false
+	},
+	{
+		"source": "/github",
+		"destination": "https://stefanco.de/r/github",
+		"permanent": false
+	},
+	{
+		"source": "/keybase",
+		"destination": "https://stefanco.de/r/keybase",
+		"permanent": false
+	},
+	{
+		"source": "/mastodon",
+		"destination": "https://stefanco.de/r/mastodon",
+		"permanent": false
+	},
+	{
+		"source": "/hackernews",
+		"destination": "https://stefanco.de/r/hackernews",
+		"permanent": false
+	},
+	{
+		"source": "/linkedin",
+		"destination": "https://stefanco.de/r/linkedin",
+		"permanent": false
+	},
+	{
+		"source": "/youtube",
+		"destination": "https://stefanco.de/r/youtube",
+		"permanent": false
+	}
+]
